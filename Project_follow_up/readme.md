@@ -3,6 +3,20 @@
 
 <sub><sup>\## _Ecrire ici la nouvelle semaine_ \##</sup></sub>
 
+## Semaine 15
+__Objectif :__
+* Effectuer la 2e partie de la reproduction des manipulations du github (https://github.com/pytorch/fairseq/tree/master/examples/camembert) : extract_features
+* Recherche et documentation de la pipeline *filling_mask*
+
+
+__Réalisation :__
+* Tous les objectifs sont remplis par l'ensemble de l'équipe
+
+__Prévision pour la semaine suivante :__
+* Recherche des modèles utilisés en fonction des pipelines, faire un tableau récapitulatif : inspecter le code source de transformers.pipelines
+* Essayer de tester les différentes pipelines avec plusieurs modèles de Camembert (cf tableau en haut de la page github suivantes : https://github.com/pytorch/fairseq/tree/master/examples/camembert)
+* Etude du code de Roberta et de Bert en fonction de l'héritage des fonctions et des attributs 
+* optionnel : tester les pipelines avec d'autres modèles que Camembert 
 
 ## Semaine 14
 __Objectif :__
