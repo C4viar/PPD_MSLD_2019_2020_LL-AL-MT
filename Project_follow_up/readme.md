@@ -1,4 +1,4 @@
-# Suivi de l'evolution du projet :
+# Suivi de l'évolution du projet :
 
 
 <sub><sup>\## _Ecrire ici la nouvelle semaine_ \##</sup></sub>
