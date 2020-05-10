@@ -2,6 +2,18 @@
 
 
 <sub><sup>\## _Ecrire ici la nouvelle semaine_ \##</sup></sub>
+## Semaine 19
+__Objectif :__
+* Résolution des probèmes de chargement des 207 datasets Europeana Newspaper French
+
+## Semaine 18
+__Objectif :__ 
+* Prise en main du nouveau sujet
+* Recherche documentaire
+
+## Semaine 17
+
+## Semaine 16
 
 ## Semaine 15
 __Objectif :__
