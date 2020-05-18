@@ -133841,7 +133841,7 @@ sentence_id	words	labels
 8571	écouter	O
 8571	M.	O
 8571	Gui	I-PERS
-8571	!	I-PERS
+8571	!	O
 8572	loteaux	I-PERS
 8572	rendre	O
 8572	compte	O
@@ -154352,7 +154352,7 @@ sentence_id	words	labels
 9759	SOCIETE	I-ORG
 9759	SPORTIVE	I-ORG
 9759	D*»	I-LIEU
-9759	!	I-LIEU
+9759	!	O
 9760	COtmAWment	I-LIEU
 9760	(	I-LIEU
 9760	prix	I-LIEU
