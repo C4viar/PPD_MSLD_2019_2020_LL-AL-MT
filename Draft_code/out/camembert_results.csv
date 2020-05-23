@@ -1,12 +1,12 @@
 eval_loss ,f1_score ,precision ,recall ,type_algo,algo
-0.2250372203117462,0.598493241746067,0.5763977806231327,0.6223502304147466,camembert,idb-ita-gilberto-uncased-from-camembert
-0.1787474153755085,0.7590120160213618,0.7437854339293501,0.7748750567923671,camembert,camembert-camembert-large
-0.1936132073278056,0.7252520623281393,0.731622746185853,0.7189913675601999,camembert,fmikaelian-camembert-base-fquad
-0.2052585504512896,0.7084666240136491,0.7108923603680719,0.70605738575983,camembert,illuin-camembert-large-fquad
-0.2009640393888852,0.7149165320409262,0.7245142981881685,0.7055697278911565,camembert,fmikaelian-camembert-base-squad
-0.21331884084523053,0.6694830461367426,0.7017012351433233,0.6400935374149661,camembert,illuin-camembert-base-fquad
-0.21448887135971856,0.667332002661344,0.6974965229485396,0.6396683673469388,camembert,camembert-camembert-base
-0.1863994938596837,0.7337467921300257,0.7383258015924252,0.7292242295430393,camembert,camembert-camembert-base-ccnet
-0.1874893454032882,0.7395498392282958,0.7457846952010376,0.7334183673469388,camembert,camembert-camembert-base-oscar-4gb
-0.19358316407714452,0.7209327200770136,0.7256675279931094,0.7162592986184909,camembert,camembert-camembert-base-ccnet-4gb
-0.19896956547541336,0.7119407788863854,0.7192716236722306,0.7047578589634664,camembert,camembert-camembert-base-wikipedia-4gb
+0.23,0.6,0.58,0.62,camembert,idb-ita-gilberto-uncased-from-camembert
+0.18,0.76,0.74,0.77,camembert,camembert-camembert-large
+0.19,0.73,0.73,0.72,camembert,fmikaelian-camembert-base-fquad
+0.21,0.71,0.71,0.71,camembert,illuin-camembert-large-fquad
+0.2,0.71,0.72,0.71,camembert,fmikaelian-camembert-base-squad
+0.21,0.67,0.7,0.64,camembert,illuin-camembert-base-fquad
+0.21,0.67,0.7,0.64,camembert,camembert-camembert-base
+0.19,0.73,0.74,0.73,camembert,camembert-camembert-base-ccnet
+0.19,0.74,0.75,0.73,camembert,camembert-camembert-base-oscar-4gb
+0.19,0.72,0.73,0.72,camembert,camembert-camembert-base-ccnet-4gb
+0.2,0.71,0.72,0.7,camembert,camembert-camembert-base-wikipedia-4gb
