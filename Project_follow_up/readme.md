@@ -2,14 +2,56 @@
 
 
 <sub><sup>\## _Ecrire ici la nouvelle semaine_ \##</sup></sub>
+
+## Semaine 21
+__Objectif :__
+* Approfondir les commentaires du notebook
+* Prise en comptes des retours de Mr Role
+* Rédaction de la partie Discussion et conclusion du rapport
+* Finalisation du rapport
+
+__Réalisation :__
+* Tous les objectifs sont remplis par l'ensemble de l'équipe
+
+__Prévision pour la semaine suivante :__
+* Préparer la soutenance
+
+## Semaine 20
+__Objectif :__
+* Tests de différents modèles Camembert
+* Résolution des problèmes de saturation de la mémoire graphique
+* Refactoring et commenter le code
+* Rédaction de la partie résultat dans le rapport 
+
+__Réalisation :__
+* Tous les objectifs sont remplis par l'ensemble de l'équipe
+
 ## Semaine 19
 __Objectif :__
-* Résolution des probèmes de chargement des 207 datasets Europeana Newspaper French
+* Résolution des probèmes de chargement des 212 datasets Europeana Newspaper French
+* Analyse et prise en main du jeu de données Europeana Newspaper French (ENF)
+* Test des modèles (Roberta, CamemBert, XMLRoberta, Electra ...) compatibles avec NER avec le dataset ENF. Voici les résultats
+* Rédaction de la partie méthodologie dans le rapport 
+
+__Réalisation :__
+* Tous les objectifs sont remplis par l'ensemble de l'équipe
+
+__Prévision pour la semaine suivante :__
+* Comparaison des résultats entre chaque modèle
+* Approndir le meilleur modèle
+
 
 ## Semaine 18
 __Objectif :__ 
 * Prise en main du nouveau sujet
 * Recherche documentaire
+* Rédaction de la partie Contexte et Introduction dans le rapport 
+
+__Réalisation :__
+* Tous les objectifs sont remplis par l'ensemble de l'équipe
+
+__Prévision pour la semaine suivante :__
+* Résoudre les problèmes de chargement des 212 datasets
 
 ## Semaine 17
 
