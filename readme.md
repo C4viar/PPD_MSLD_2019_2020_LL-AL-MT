@@ -85,27 +85,27 @@ All the elements necessary for the proper functioning of the code on NERs can be
 
 -**Camembert_Discovery**
 
-    - Documents (Different documents created during research on Camembert)
+- Documents (Different documents created during research on Camembert)
 
-    - PPD5-sujet_PPD_french (PPD subject)
+- PPD5-sujet_PPD_french (PPD subject)
 
-    - script.ipynb (script on the tests performed on the Camembert package)
+- script.ipynb (script on the tests performed on the Camembert package)
 
 -**Documents**
 
-    - models_pipelines_analysis.xlsx (study of the pipelines necessary for simple transformers)
+- models_pipelines_analysis.xlsx (study of the pipelines necessary for simple transformers)
 
-    - readme.md
+- readme.md
 
 -**Ner**
 
-    - input (data sources needed)
+- input (data sources needed)
 
-    - out (information output from our code)
+- out (information output from our code)
 
-    - projet_ner.ipynp (python script on NER)
+- projet_ner.ipynp (python script on NER)
 
-    - sujet_PPD_french_lm_models (NER topic)
+- sujet_PPD_french_lm_models (NER topic)
 
 -**Project_follow_up**
 
