@@ -22,6 +22,27 @@ Amar et Laura utilise Google Collab à cause de problèmes lors de l'installatio
 
 L'ensemble des elements necessaire au bon fonctionnement du code  sur les NER se trouve dans [ce repertoire Google Drive](https://drive.google.com/drive/folders/1gIx6SZ3i5eaYLZ__MIbDU2TwnJIETX0m?usp=sharing). 
 
+
+## Organisation du Github
+
+>Camembert_Discovery
+    --> Documents (Differents documents crés pendant les recherches sur Camembert)
+    --> PPD5-sujet_PPD_french (sujet du PPD)
+    --> script.ipynb (scripts sur les tests effectués sur le package Camembert)
+>Documents
+    --> models_pipelines_analysis.xlsx (étude des pipelines necessaires pour simple transformers)
+    --> readme.md
+>Ner
+    --> input (sources de données necessaires)
+    --> out (sortie d'informations depuis notre code)
+    --> projet_ner.ipynp (script python sur les NER)
+    --> sujet_PPD_french_lm_models (sujet sur les NER)
+>Project_follow_up (suivi du sujet)
+
+Rapport_PPD.pdf
+Readme.md
+
+
 ----------
 ----------
 
@@ -44,3 +65,22 @@ Amar and Laura use Google Collab because of problems installing the packages req
 
 
 All the elements necessary for the proper functioning of the code on NERs can be found in [this Google Drive folder](https://drive.google.com/drive/folders/1gIx6SZ3i5eaYLZ__MIbDU2TwnJIETX0m?usp=sharing). 
+
+
+## Github setup
+
+>Camembert_Discovery
+    --> Documents (Different documents created during research on Camembert)
+    --> PPD5-sujet_PPD_french (PPD subject)
+    --> script.ipynb (script on the tests performed on the Camembert package)
+>Documents
+    --> models_pipelines_analysis.xlsx (study of the pipelines necessary for simple transformers)
+    --> readme.md
+>Ner
+    --> input (data sources needed)
+    --> out (information output from our code)
+    --> projet_ner.ipynp (python script on NER)
+    --> sujet_PPD_french_lm_models (NER topic)
+>Project_follow_up 
+Rapport_PPD.pdf
+Readme.md
