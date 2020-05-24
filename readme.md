@@ -20,6 +20,8 @@ Le sujet complet est disponible [ici](https://github.com/C4viar/PPD_MSLD_2019_20
 Nous sommes équipés d'un Macbook Air 2018 version Catalina 10.15.3, d'un Macbook Pro 2015 version Mojave 10.14.6 et d'un Razer Blade stealth 13 version Windows 10. 
 Amar et Laura utilise Google Collab à cause de problèmes lors de l'installation des package indispensable à ce PPD. Maxence utilise python via Jupyter Notebook
 
+L'ensemble des elements necessaire au bon fonctionnement du code  sur les NER se trouve dans [ce repertoire Google Drive](https://drive.google.com/drive/folders/1gIx6SZ3i5eaYLZ__MIbDU2TwnJIETX0m?usp=sharing). 
+
 ----------
 ----------
 
@@ -39,3 +41,6 @@ The complete topic is available [here](https://github.com/C4viar/PPD_MSLD_2019_2
 
 We are equipped with a Macbook Air 2018 version Catalina 10.15.3, a Macbook Pro 2015 version Mojave 10.14.6 and a Razer Blade stealth 13 version Windows 10. 
 Amar and Laura use Google Collab because of problems installing the packages required for this PPD. Maxence uses python via Jupyter Notebook.
+
+
+All the elements necessary for the proper functioning of the code on NERs can be found in [this Google Drive folder](https://drive.google.com/drive/folders/1gIx6SZ3i5eaYLZ__MIbDU2TwnJIETX0m?usp=sharing). 
